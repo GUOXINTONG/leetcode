@@ -5,22 +5,22 @@
 # oct.21
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-✅|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||
+|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||✅
 
 
 ## Array Medium
 # oct.21
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-✅|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||
-✅|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||✅
+|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||✅
 
 ## Hash Table Easy
 # oct.22
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-✅|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
-✅|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ ||
+|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|✅
+|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ ||✅
 
 
 
@@ -32,7 +32,7 @@
 # oct.23-
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-✅|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ ||
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ ||✅
 |89|[Partition List](https://leetcode.com/problems/partition-list/) | [Python](./linkedlist/PartitionLinkedList.py) | _O(n)_ | _O(n)_ ||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description) | [Python](./linkedlist/LinkedListCycle.py) | _O(n)_ | _O(1)_ ||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./linkedlist/IntersectionOfTwoLinkedLists.py) | _O(n)_| _O(1)_  ||
