@@ -3,24 +3,24 @@
 
 ## Array Easy
 # oct.21
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||✅
+|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ |✅|
 
 
 ## Array Medium
 # oct.21
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||✅
-|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||✅
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ |✅|
+|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_|✅|
 
 ## Hash Table Easy
 # oct.22
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|✅
-|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ ||✅
+|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |✅[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
+|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ |✅|
 
 
 
@@ -30,9 +30,9 @@
 
 ## Linked List Easy
 # oct.23-
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ ||✅
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ |✅|
 |89|[Partition List](https://leetcode.com/problems/partition-list/) | [Python](./linkedlist/PartitionLinkedList.py) | _O(n)_ | _O(n)_ ||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description) | [Python](./linkedlist/LinkedListCycle.py) | _O(n)_ | _O(1)_ ||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./linkedlist/IntersectionOfTwoLinkedLists.py) | _O(n)_| _O(1)_  ||
@@ -43,7 +43,7 @@
 
 
 ## LinkedList Medium
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) | [Python](./linkedlist/addTwoNumbers.py) | _O(n)_| _O(n)_|
 |445| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/#/description)| [Python](./linkedlist/addTwoNumbersTwo.py) | _O(n)_| _O(n)_|
@@ -58,7 +58,7 @@
 
 
 ## Stacks Easy
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |155|[Min Stack](https://leetcode.com/problems/min-stack/#/description)| [Python](./stack_queue/minStack.py) | _O(1)_| _O(n)_|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/#/description)| [Python](./stack_queue/queueStack.py) | push/pop: _O(1)_ top:_O(n)_ | _O(n)_|
@@ -67,7 +67,7 @@
 
 
 ## Tree Easy
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python ](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  |
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python ](./tree/Yu/107.py) | _O(N)_| _O(h)_  |
@@ -91,7 +91,7 @@
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)| [Python ](./tree/Yu/637.py) | _O(N)_| _O(1)_ ||
 
 ## Tree Medium
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)| [Python ](./tree/Yu/144.py) | _O(N)_| _O(N)_  |[:tv:](https://youtu.be/cHbdPonjYS0)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python ](./tree/Yu/102.py) | _O(N)_| _O(N)_  |[:tv:](https://youtu.be/IWiprpdSgzg)|
@@ -105,7 +105,7 @@
 
 
 ## Backtrack Medium
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_|[:tv:](https://youtu.be/Az3PfUep7gk)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python ](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  |  [:tv:](https://youtu.be/Az3PfUep7gk)|
@@ -120,12 +120,12 @@
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)| [Python ](./backtrack/Yu/131.py) | _O(N*(2^N))_| _O(N)_  |  [:tv:](https://youtu.be/UFdSC_ml4TQ)|
 
 ## Greedy Medium
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)| [Python ](./greedy/452.py) | _O(N)_| _O(1)_  |  |
 
 ## Dynamic Programming Easy
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python ](./dp/70.py) | _O(N)_| _O(1)_  | Easy| |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)| [Python ](./dp/53.py) | _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/4tfhDdgu76E) |
@@ -134,7 +134,7 @@
 
 
 ## Dynamic Programming Medium
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/submissions/1)| [Python ](./dp/64.py) | _O(N^2)_| _O(M*N)_  |  [:tv:](https://youtu.be/bEcW6QqgXvM)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)| [Python ](./dp/62.py) | _O(N^2)_| _O(M*N)_  |  Reference #64|
@@ -143,7 +143,7 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python ](./dp/300.py) | _O(N^2)_| _O(1)_  |  Use Binary-Search for NlogN Solution|
 
 ## BitMap Easy
-|  #  | Title | Solution | Time | Space | Video|
+|  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)| [Python ](./bitmap/136.py) | _O(N)_| _O(1)_  |  [:tv:](https://www.youtube.com/watch?v=C4GWPpNivfI&list=PLFp7f5kTehDlpCj5puB3WGbH1Qi3eSDat&index=6&t=7s)|
 
