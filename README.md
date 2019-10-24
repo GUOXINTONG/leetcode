@@ -1,25 +1,26 @@
 ## Leetcode刷题参考
-<br><br><br>
-
-
+用Yu Zhou大神的这份Q&A作为刷题参考，同时记录自己完成/参考的情况和时间线
 
 ## Array Easy
+# oct.21
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||
+✅|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||
 
 
 ## Array Medium
+# oct.21
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||
-|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||
+✅|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||
+✅|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||
 
 ## Hash Table Easy
+# oct.22
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
-|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ ||
+✅|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
+✅|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ ||
 
 
 
@@ -28,9 +29,10 @@
 
 
 ## Linked List Easy
+# oct.23-
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ ||
+✅|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ ||
 |89|[Partition List](https://leetcode.com/problems/partition-list/) | [Python](./linkedlist/PartitionLinkedList.py) | _O(n)_ | _O(n)_ ||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description) | [Python](./linkedlist/LinkedListCycle.py) | _O(n)_ | _O(1)_ ||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./linkedlist/IntersectionOfTwoLinkedLists.py) | _O(n)_| _O(1)_  ||
@@ -152,38 +154,9 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 <a href="graphs/contributors"><img src="https://opencollective.com/leetcode/contributors.svg?width=890&button=false" /></a>
 
 
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/leetcode#backer)]
-
-<a href="https://opencollective.com/leetcode#backers" target="_blank"><img src="https://opencollective.com/leetcode/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/leetcode#sponsor)]
-
-<a href="https://opencollective.com/leetcode/sponsor/0/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/1/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/2/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/3/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/4/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/5/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/6/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/7/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/8/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/leetcode/sponsor/9/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/9/avatar.svg"></a>
-
-
 
 ## License
 
 🌱 MIT @ Yu Zhou 🌱
 
 ---
-
-
-> ![home](http://yuzhoujr.com/legacy/emoji/home.svg)
-[yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
-> ![github](http://yuzhoujr.com/legacy/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> ![linkedin](http://yuzhoujr.com/legacy/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
