@@ -1,35 +1,11 @@
-<!---Logo--->
-<h1 align="center">
-      <br><a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/legacy/image/logo.jpg" alt="yuzhoujr" width="200"></a>
-</h1>
-
-<!---Mentra--->
-<p align="center">
-      公瑾现在提供以下服务哟！
-      http://yuzhoujr.com/legacy/dummynode.pdf
+##
+</p>Leetcode刷题参考
 </p>
-<!---svg--->
-<p align="center">
-  <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/leetcode/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/leetcode/sponsors/badge.svg" /></a> <img src="https://img.shields.io/badge/language-Python-yellow.svg?style=flat-square">
-  <img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square">
-  <img src="https://img.shields.io/badge/progress-1%20%2F%20N-ff69b4.svg?style=flat-square">
-</p>
-
-
-
-<br>
-
 
 ## Mock Interview 经验 + 反馈
 
 * Google面试官的反馈: [Dropbox链接](https://paper.dropbox.com/doc/GMock-Interview--AIMRqf_e~KjKAe47PIvkVrN6AQ-8teeNVpJ2oq8s6nODLKQd)
 * Yahoo电面反馈: [Dropbox链接](https://paper.dropbox.com/doc/95-Yahoo--AMA9j51_WIY9uAzybM9E0QLSAQ-t0hgbpyY11v0NvI3bcEf9)
-
-
-## Journey
-
-[时间线](https://gist.github.com/yuzhoujr/cf7c0ebdc0b3b471ddac94a862a0ecd9)
-
 
 <br><br><br>
 
