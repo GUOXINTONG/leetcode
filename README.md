@@ -37,7 +37,7 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description) | [Python](./linkedlist/LinkedListCycle.py) | _O(n)_ | _O(1)_ ||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./linkedlist/IntersectionOfTwoLinkedLists.py) | _O(n)_| _O(1)_  ||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/#/description) | [Python](./linkedlist/RemoveLinkedListElements.py) | _O(n)_| _O(1)_  ||
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description) | [Python](./linkedlist/ReverseLinkedList.py) | _O(n)_| _O(1)_  ||Tutorial](https://www.youtube.com/watch?v=sYcOK51hl-A&t=681s) ✅|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description) | [Python](./linkedlist/ReverseLinkedList.py) | _O(n)_| _O(1)_ |✅|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |[Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  |✅|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  ||
 
