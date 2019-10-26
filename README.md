@@ -67,6 +67,12 @@
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/#/description)| [Python](./stack_queue/movingAverage.py) | _O(1)_| _O(n)_|
 
 
+## Queues Easy
+|  #  | Title | Solution | Time | Space | State|
+| --- | ----- | -------- | ---- | ----- | ---- |
+|232|[Implement Queues using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)|
+
+
 ## Tree Easy
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
