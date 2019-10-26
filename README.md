@@ -58,6 +58,7 @@
 
 
 ## Stacks Easy
+# oct.26
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |155|[Min Stack](https://leetcode.com/problems/min-stack/#/description)| [Python](./stack_queue/minStack.py) | _O(1)_| _O(n)_|
