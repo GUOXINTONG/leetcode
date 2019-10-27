@@ -68,7 +68,7 @@
 
 
 ## Queues 
-# oct.26
+# oct.27
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |232|[Implement Queues using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)|
