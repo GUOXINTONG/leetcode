@@ -61,9 +61,9 @@
 # oct.26
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|155|[Min Stack](https://leetcode.com/problems/min-stack/#/description)| [Python](./stack_queue/minStack.py) | _O(1)_| _O(n)_|
-|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/#/description)| [Python](./stack_queue/queueStack.py) | push/pop: _O(1)_ top:_O(n)_ | _O(n)_|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)| [Python](./stack_queue/isValid.py) | _O(n)_| _O(n)_|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/#/description)| [Python](./stack_queue/minStack.py) | _O(1)_| _O(n)_|✅|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/#/description)| [Python](./stack_queue/queueStack.py) | push/pop: _O(1)_ top:_O(n)_ | _O(n)_|✅|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)| [Python](./stack_queue/isValid.py) | _O(n)_| _O(n)_|✅|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/#/description)| [Python](./stack_queue/movingAverage.py) | _O(1)_| _O(n)_|
 
 
@@ -71,8 +71,8 @@
 # oct.27
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|232|[Implement Queues using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)|
-|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|
+|232|[Implement Queues using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)||||✅|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)||||✅|
 
 
 ## Tree Easy
