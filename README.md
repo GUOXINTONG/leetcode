@@ -73,7 +73,7 @@
 | --- | ----- | -------- | ---- | ----- | ---- |
 |232|[Implement Queues using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)||||✅|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)||||✅|
-
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)||||✅|
 
 ## Tree Easy
 |  #  | Title | Solution | Time | Space | State|
