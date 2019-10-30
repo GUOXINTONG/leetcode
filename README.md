@@ -82,8 +82,8 @@
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python ](./tree/Yu/107.py) | _O(N)_| _O(h)_  |
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python ](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_ |[:tv:](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python ](./tree/Yu/100_isSameTree.py) | _O(N)_| _O(1)_|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)| [Python ](./tree/Yu/101_symmetricTree.py)| _O(N)_| _O(1)_|[:tv:](https://youtu.be/3Gl4F29LVpQ)|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./tree/Yu/104_maxDepth.py) | _O(N)_| _O(1)_ ||
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)| [Python ](./tree/Yu/101_symmetricTree.py)| _O(N)_| _O(1)_|[:tv:](https://youtu.be/3Gl4F29LVpQ)✅|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./tree/Yu/104_maxDepth.py) | _O(N)_| _O(1)_ |✅|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/solutions)| [Python ](./tree/Yu/108.py) | _O(N)_| _O(N)_ |[:tv:](https://www.youtube.com/watch?v=lBrb4fXPcMM)✅|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|| _O(Nlog(N))_ ||✅|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description)| [Python ](https://github.com/yuzhoujr/LeetCode/blob/master/tree/Yu/111_minDepth.py)| _O(N)_| _O(1)_||
