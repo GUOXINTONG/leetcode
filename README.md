@@ -80,7 +80,7 @@
 | --- | ----- | -------- | ---- | ----- | ---- |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python ](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  |
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python ](./tree/Yu/107.py) | _O(N)_| _O(h)_  |
-|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python ](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_ |[:tv:](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python ](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_ |[:tv:](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)✅|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python ](./tree/Yu/100_isSameTree.py) | _O(N)_| _O(1)_|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)| [Python ](./tree/Yu/101_symmetricTree.py)| _O(N)_| _O(1)_|[:tv:](https://youtu.be/3Gl4F29LVpQ)✅|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./tree/Yu/104_maxDepth.py) | _O(N)_| _O(1)_ |✅|
