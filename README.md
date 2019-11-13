@@ -40,8 +40,7 @@
 ## LinkedList Medium
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/#/description)| [Python](./linkedlist/detectCycleii.py) | _O(n)_| _O(1)_|[:tv:](https://www.youtube.com/watch?v=iZVBVCpmugI&t=1s)|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)| [Python](./linkedlist/removeNthFromEnd.py) | _O(n)_| _O(1)_|[:tv:](https://youtu.be/8Jq8ikIeF1M)|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)| [Python](./linkedlist/removeNthFromEnd.py) | _O(n)_| _O(1)_|✅|
 
 
 ## Stacks Easy
