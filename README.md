@@ -89,18 +89,18 @@
 ## Dynamic Programming Easy
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python ](./dp/70.py) | _O(N)_| _O(1)_  | Easy| |
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)| [Python ](./dp/53.py) | _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/4tfhDdgu76E) |
-|198|[House Robber](https://leetcode.com/problems/house-robber/#/description)| [Python ](./dp/198.py) | _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/QSjPkgyxCaQ) |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python ](./dp/70.py) | _O(N)_| _O(1)_  | Easy|✅|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)| [Python ](./dp/53.py) | _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/4tfhDdgu76E) ✅|
+|198|[House Robber](https://leetcode.com/problems/house-robber/#/description)| [Python ](./dp/198.py) | _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/QSjPkgyxCaQ)✅ |
 
 
 
 ## Dynamic Programming Medium
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)| [Python ](./dp/62.py) | _O(N^2)_| _O(M*N)_  |  Reference #64|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  |  TLE with DP/Use Greedy for O(N) Solution|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python ](./dp/300.py) | _O(N^2)_| _O(1)_  |  Use Binary-Search for NlogN Solution|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)| [Python ](./dp/62.py) | _O(N^2)_| _O(M*N)_  |✅|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  ||
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python ](./dp/300.py) | _O(N^2)_| _O(1)_  ||
 
 ## BitMap Easy
 |  #  | Title | Solution | Time | Space | State|
