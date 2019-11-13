@@ -89,9 +89,9 @@
 ## Dynamic Programming Easy
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python ](./dp/70.py) | _O(N)_| _O(1)_  | Easy|✅|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)| [Python ](./dp/53.py) | _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/4tfhDdgu76E) ✅|
-|198|[House Robber](https://leetcode.com/problems/house-robber/#/description)| [Python ](./dp/198.py) | _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/QSjPkgyxCaQ)✅ |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python ](./dp/70.py) | _O(N)_| _O(1)_  |✅|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)| [Python ](./dp/53.py) | _O(N)_| _O(N)_  | [:tv:](https://youtu.be/4tfhDdgu76E) ✅|
+|198|[House Robber](https://leetcode.com/problems/house-robber/#/description)| [Python ](./dp/198.py) | _O(N)_| _O(N)_  |[:tv:](https://youtu.be/QSjPkgyxCaQ)✅ |
 
 
 
