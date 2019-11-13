@@ -68,7 +68,7 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./tree/Yu/104_maxDepth.py) | _O(N)_| _O(1)_ |✅|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/solutions)| [Python ](./tree/Yu/108.py) | _O(N)_| _O(N)_ |[:tv:](https://www.youtube.com/watch?v=lBrb4fXPcMM)✅|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|| _O(Nlog(N))_ ||✅|
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/#/description)| [Python ](./tree/Yu/538.py) | _O(N)_| _O(1)_ |[:tv:](https://youtu.be/YoEPWtXmkD4)|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/#/description)| [Python ](./tree/Yu/538.py) | _O(N)_| _O(1)_ |✅|
 
 ## Tree Medium
 |  #  | Title | Solution | Time | Space | State|
