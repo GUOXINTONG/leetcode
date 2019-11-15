@@ -73,9 +73,9 @@
 ## Tree Medium
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python ](./tree/Yu/102.py) | _O(N)_| _O(N)_  |[:tv:](https://youtu.be/IWiprpdSgzg)|
-|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/solutions)| [Python ](./tree/Yu/114.py) | _O(N)_| _O(1)_  |[:tv:](https://youtu.be/LfKRZ_qCmYQ)|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [Python ](./tree/Yu/230.py) | _O(N)_| _O(1)_  |[:tv:](https://youtu.be/CfNRc82ighw)|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python ](./tree/Yu/102.py) | _O(N)_| _O(N)_  |✅[:tv:](https://youtu.be/IWiprpdSgzg)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/solutions)| [Python ](./tree/Yu/114.py) | _O(N)_| _O(1)_  |✅[:tv:](https://youtu.be/LfKRZ_qCmYQ)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [Python ](./tree/Yu/230.py) | _O(N)_| _O(1)_  |✅[:tv:](https://youtu.be/CfNRc82ighw)|
 
 ## Backtrack Medium
 |  #  | Title | Solution | Time | Space | State|
