@@ -23,11 +23,6 @@
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ |✅|
 
 
-
-
-
-
-
 ## Linked List Easy
 # oct.23-
 |  #  | Title | Solution | Time | Space | State|
@@ -105,13 +100,6 @@
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)| [Python ](./bitmap/136.py) | _O(N)_| _O(1)_  |  [:tv:](https://www.youtube.com/watch?v=C4GWPpNivfI&list=PLFp7f5kTehDlpCj5puB3WGbH1Qi3eSDat&index=6&t=7s)✅|
-
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="graphs/contributors"><img src="https://opencollective.com/leetcode/contributors.svg?width=890&button=false" /></a>
-
 
 
 ## License
