@@ -75,10 +75,10 @@
 ## Backtrack Medium
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_|[:tv:](https://youtu.be/Az3PfUep7gk)|
-|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
+|78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_|✅[:tv:](https://youtu.be/Az3PfUep7gk)|
+|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  |  ✅[:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |✅|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [Python ](./backtrack/Yu/17.py) | _O(N*(4^N))_| _O(N)_  |  [:tv:](https://www.youtube.com/watch?v=7KZWLM9QtRA)|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [Python ](./backtrack/Yu/17.py) | _O(N*(4^N))_| _O(N)_  |  ✅[:tv:](https://www.youtube.com/watch?v=7KZWLM9QtRA)|
 
 ## Dynamic Programming Easy
 |  #  | Title | Solution | Time | Space | State|
