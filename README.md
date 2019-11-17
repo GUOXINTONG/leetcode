@@ -93,8 +93,8 @@
 |  #  | Title | Solution | Time | Space | State|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)| [Python ](./dp/62.py) | _O(N^2)_| _O(M*N)_  |✅|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  ||
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python ](./dp/300.py) | _O(N^2)_| _O(1)_  ||
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  |✅|
+
 
 ## BitMap Easy
 |  #  | Title | Solution | Time | Space | State|
